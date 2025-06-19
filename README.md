@@ -60,7 +60,7 @@ docker run -d --name nginx-proxy --network devops-net -p 80:80 -v $(pwd)/nginx.c
    ```
    You should see:
    ```
-   hello, devops!
+   Hello, DevOps!
    ```
 
 ## Cleaning Up
